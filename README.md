@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey! My name's Mark 🤗
+## About me 🤓
+I'm Mark Pavlenko, from Ukraine, Kyiv.
 
-<!--
-**markpavlenko/markpavlenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I created lot's of projects, like PyTermOS.
 
-Here are some ideas to get you started:
+I love both Front-End and Back-End. I know HTML and CSS very well, and know Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects 🤩
+I've created lot's of projects.
+
+markpavlenko.github.io - a website about me so you can see my projects and stuff 'bout me.
+
+PMDMcalc - a calculator on python that runs in a terminal window.
+
+PyTerm - a custom terminal with PMDMcalc and lot's of features. It was discontinued due to the creation of PyTermOS.
+
+RandomCarrot - a module for Python that can generate random letters and numbers. Was also discontinued, because of small activity.
+
+desktop.chatgpt - an app that let's you use ChatGPT on your Mac. A new official ChatGPT Desktop app was released, but only for MacOS Sonoma and desktop.chatgpt let's you use it on any MacOS.
+
+And PyTermOS, a Linux distro that uses the PyTerm CLI interface, only for RPi hardware.
+
+## On what i'm working now 😎
+PyTermOS. I'm working on PyTermOS now for 4 weeks now. 
+
+It's not working now (Kernel Panic issues) and i'm working on it.
+
+See more at pytermos.com!
+
+### That's it! Thanks for reading 🤠
