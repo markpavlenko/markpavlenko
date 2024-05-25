@@ -26,6 +26,6 @@ PyTermOS. I'm working on PyTermOS now for 4 weeks now.
 
 It's not working now (Kernel Panic issues) and i'm working on it.
 
-See more at pytermos.com!
+See more at [pytermos.com](pytermos.com)!
 
 ### That's it! Thanks for reading 🤠
