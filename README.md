@@ -21,11 +21,15 @@ desktop.chatgpt - an app that let's you use ChatGPT on your Mac. A new official 
 
 And PyTermOS, a Linux distro that uses the PyTerm CLI interface, only for RPi hardware.
 
-## On what i'm working now 😎
+## On what I'm working now 😎
 PyTermOS. I'm working on PyTermOS now for 4 weeks now. 
 
 It's not working now (Kernel Panic issues) and i'm working on it.
 
 See more at [pytermos.com](pytermos.com)!
+
+### Plus, I'm working on phpBB PyTermOS Forums website.
+ 
+See more at [forums.pytermos.com](forums.pytermos.com)
 
 ### That's it! Thanks for reading 🤠
