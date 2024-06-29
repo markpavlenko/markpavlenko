@@ -28,8 +28,8 @@ It's not working now (Kernel Panic issues) and i'm working on it.
 
 See more at [pytermos.com](pytermos.com)!
 
-### Plus, I'm working on phpBB PyTermOS Forums website.
+### Plus, I'm working on PyTermOS Wiki website based on WikiMedia.
  
-See more at [forums.pytermos.com](forums.pytermos.com)
+See more at [wiki.pytermos.com](wiki.pytermos.com)
 
 ### That's it! Thanks for reading 🤠
